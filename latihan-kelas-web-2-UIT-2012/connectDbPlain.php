@@ -3,7 +3,7 @@
 	
 	try {
 		$userName = 'root';
-		$password = 'talaso';
+		$password = '';
 		$dbDriver = 'mysql';
 		$dbHost = 'localhost';
 		$dbname = 'latihan_ak_10';
